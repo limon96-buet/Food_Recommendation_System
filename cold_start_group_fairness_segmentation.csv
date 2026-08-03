@@ -1,0 +1,9 @@
+attribute,value,n,behavior_roc_auc
+poverty_band,above_two_poverty,18450,0.28460519762735687
+poverty_band,below_poverty,11215,0.703219529547779
+poverty_band,one_to_two_poverty,17603,0.567189922037798
+snap_band,non_snap,30258,0.4634030080214314
+snap_band,snap,17010,0.4218181348816159
+household_size_band,large,35232,0.5236551806253243
+household_size_band,single,5515,0.43433488859936686
+household_size_band,small,6521,0.170080962107995

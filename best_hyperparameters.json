@@ -1,0 +1,15 @@
+{
+  "hidden_dim": 64,
+  "layers": 2,
+  "dropout": 0.21768432891642056,
+  "residual": true,
+  "activation": "relu",
+  "aggregation": "sum",
+  "head_hidden_ratio": 2,
+  "lr": 0.003480961488805864,
+  "weight_decay": 1.338493154542602e-06,
+  "w_acceptance": 1.9055752192176885,
+  "w_health": 1.3353701724932696,
+  "w_similarity": 1.0828257706200823,
+  "negative_ratio": 2
+}

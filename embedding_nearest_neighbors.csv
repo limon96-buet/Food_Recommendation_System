@@ -1,0 +1,26 @@
+anchor_food_id,anchor_description,rank,neighbor_food_id,neighbor_description,cosine_similarity
+FNDDS_2021_2023:27514040,Cheese steak sandwich or sub on wheat,1,FNDDS_2021_2023:27510657,"Double hamburger, on wheat bun, 2 medium patties",0.9930738210678101
+FNDDS_2021_2023:27514040,Cheese steak sandwich or sub on wheat,2,FNDDS_2021_2023:27545110,"Turkey or chicken burger, on wheat bun",0.9928554892539978
+FNDDS_2021_2023:27514040,Cheese steak sandwich or sub on wheat,3,FNDDS_2021_2023:54404000,"Popcorn chips, plain",0.9921553134918213
+FNDDS_2021_2023:27514040,Cheese steak sandwich or sub on wheat,4,FNDDS_2021_2023:58102300,"Burrito, NFS",0.9920039176940918
+FNDDS_2021_2023:27514040,Cheese steak sandwich or sub on wheat,5,FNDDS_2021_2023:27510576,"Hamburger, on wheat bun, 1 small patty",0.9912974834442139
+FNDDS_2011_2012:63126510,"Lychee, raw",1,FNDDS_2011_2012:201000000,"SNDAFoodGrp-Fruit, Juice",0.996626615524292
+FNDDS_2011_2012:63126510,"Lychee, raw",2,FNDDS_2011_2012:61101230,"Grapefruit, canned or frozen, in light syrup",0.995822012424469
+FNDDS_2011_2012:63126510,"Lychee, raw",3,FNDDS_2011_2012:64132500,Strawberry juice,0.9952110648155212
+FNDDS_2011_2012:63126510,"Lychee, raw",4,FNDDS_2011_2012:202020800,"SNDAFoodGrp-Fruit, Canned, Other, Cherries",0.9936811923980713
+FNDDS_2011_2012:63126510,"Lychee, raw",5,FNDDS_2011_2012:202012300,"SNDAFoodGrp-Fruit, Canned, Citrus, melons, and berries, Strawberries",0.9934102892875671
+FNDDS_2011_2012:32010,"Pasta mix, Italian lasagna, unprepared",1,FNDDS_2011_2012:58106760,"Pizza with meat and fruit, thick crust",0.9961678385734558
+FNDDS_2011_2012:32010,"Pasta mix, Italian lasagna, unprepared",2,FNDDS_2011_2012:27520300,"Ham sandwich, with spread",0.9958111047744751
+FNDDS_2011_2012:32010,"Pasta mix, Italian lasagna, unprepared",3,FNDDS_2011_2012:58106730,"Pizza with meat and vegetables, thick crust",0.9954693913459778
+FNDDS_2011_2012:32010,"Pasta mix, Italian lasagna, unprepared",4,FNDDS_2011_2012:27550110,"Crab cake sandwich, on bun",0.9952219128608704
+FNDDS_2011_2012:32010,"Pasta mix, Italian lasagna, unprepared",5,FNDDS_2011_2012:27510420,"Taco burger, on bun",0.9950510263442993
+FNDDS_2021_2023:63101110,"Applesauce, regular",1,FNDDS_2021_2023:63311110,"Fruit cocktail, canned, NFS",0.9963409304618835
+FNDDS_2021_2023:63101110,"Applesauce, regular",2,FNDDS_2021_2023:63135140,"Peach, canned, in syrup",0.9963240623474121
+FNDDS_2021_2023:63101110,"Applesauce, regular",3,FNDDS_2021_2023:61204000,"Lemon juice, 100%, NS as to form",0.996079683303833
+FNDDS_2021_2023:63101110,"Applesauce, regular",4,FNDDS_2021_2023:63135010,"Peach, raw",0.9960577487945557
+FNDDS_2021_2023:63101110,"Applesauce, regular",5,FNDDS_2021_2023:63127010,"Honeydew melon, raw",0.9958171248435974
+FNDDS_2011_2012:13120770,"Ice cream cone, no topping, chocolate ice cream",1,FNDDS_2011_2012:13120140,"Ice cream bar or stick, chocolate ice cream, chocolate covered",0.9990683197975159
+FNDDS_2011_2012:13120770,"Ice cream cone, no topping, chocolate ice cream",2,FNDDS_2011_2012:13140700,"Light ice cream, creamsicle or dreamsicle (formerly ice milk)",0.9986791014671326
+FNDDS_2011_2012:13120770,"Ice cream cone, no topping, chocolate ice cream",3,FNDDS_2011_2012:13140600,"Light ice cream, sundae, soft serve, chocolate or fudge topping, with whipped cream (formerly ice milk)",0.9978035688400269
+FNDDS_2011_2012:13120770,"Ice cream cone, no topping, chocolate ice cream",4,FNDDS_2011_2012:13140680,"Light ice cream, sundae, soft serve, not fruit or chocolate topping (without whipped cream) (formerly ice milk)",0.9976714253425598
+FNDDS_2011_2012:13120770,"Ice cream cone, no topping, chocolate ice cream",5,FNDDS_2011_2012:53204500,"Cookie, brownie, with cream cheese filling, without icing",0.9976005554199219
